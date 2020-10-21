@@ -1,0 +1,23 @@
+##TITLE= Parameter file, TopSpin 3.5 pl 5
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 23	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= hashimi
+$$ 2018-10-18 00:37:02.559 -0400  hashimi@CZC5331WJR
+$$ /home/hashimi/data/Shi/hs_20181017_imino_exchange_GDNA_test/401/acqu2s
+$$ process /opt/topspin3.5pl5/prog/mod/go4
+##$ACQT0= 0
+##$BF1= 700.33
+##$FnMODE= 0
+##$NUC1= <1H>
+##$NusJSP= 0
+##$NusT2= 1
+##$NusTD= 21
+##$O1= 3291.551
+##$ProjAngle= 0
+##$SFO1= 700.333291551
+##$SW= 9.99924065431668
+##$SW_h= 7002.80112044818
+##$TD= 21
+##END=

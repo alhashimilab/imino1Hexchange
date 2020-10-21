@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TopSpin 3.5 pl 5
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= hashimi
+$$ 2018-10-17 14:44:50.068 -0400  hashimi@CZC5331WJR
+$$ /home/hashimi/data/Shi/hs_20181017_imino_exchange_GDNA_test/401/pdata/1/outd
+$$ process /opt/topspin3.5pl5/prog/mod/edparproc
+##$CURPLOT= <hp4050n2>
+##$CURPRIN= <$hp4050n2>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/1D_H.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=

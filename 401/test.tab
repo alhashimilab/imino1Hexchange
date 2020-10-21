@@ -1,0 +1,21 @@
+REMARK ROI 1D Peak Detection System, File: pkROI_1d.dat
+REMARK Detection Levels: -1.22941e+06 and 1.22941e+06
+REMARK Detection: X(+/-3)
+REMARK Interpolation: X(+/-3)
+REMARK Noise: 515843, Chi2-Threshold: 1.000000e-04, Local Adjustment: None
+REMARK Position Tolerances: X(11.1)
+REMARK Sinc Detect ON, Height Adjustments: X(1.200)
+REMARK Sinc Detect Linewidths: X(15.0Hz)
+REMARK Total Peaks: 4, Good Peaks: 4, Questionable Peaks: 0
+REMARK Clusters: 4, Max Cluster Size: 1
+REMARK ROI Spectral Axis Limits:
+
+DATA  X_AXIS 1H           1  3723   14.500ppm   11.997ppm
+
+VARS   INDEX X_AXIS DX X_PPM X_HZ XW XW_HZ X1 X3 HEIGHT DHEIGHT VOL PCHI2 TYPE ASS CLUSTID MEMCNT
+FORMAT %5d %9.3f %6.3f %8.3f %9.3f %7.3f %8.3f %4d %4d %+e %+e %+e %.5f %d %s %4d %4d
+
+   1  1448.934 26.776   13.527  9473.093  26.111   12.297 1408 1484  1.384527e+07  2.978414e+05  4.981798e+08 0.00000 1 None    1    1
+   2  2164.112 36.911   13.046  9136.280  27.637   13.015 2128 2206  1.131155e+07  2.978448e+05  4.354091e+08 0.00000 1 None    2    1
+   3  2392.243 17.906   12.892  9028.842  23.135   10.895 2358 2429  1.683087e+07  2.979106e+05  5.241733e+08 0.00000 1 None    3    1
+   4  2675.234 17.685   12.702  8895.567  23.105   10.881 2626 2712  1.695191e+07  2.979062e+05  5.617425e+08 0.00000 1 None    4    1

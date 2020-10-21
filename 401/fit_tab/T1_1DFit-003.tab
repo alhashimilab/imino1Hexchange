@@ -1,0 +1,18 @@
+REMARK NLINLS: NMRPipe Nonlinear Spectral Modeling
+REMARK Files: axt.tab ft/T1_1Dpeak-003.ft2 Jtype: PEAK Dim: 1 Iter: 750 Eval: 750
+REMARK X PROFILE (+/-26) GAUSS1D
+REMARK Model-Based Volumes at +/-3 LW in Pts Scale: 1.000000
+REMARK Constraint on X_AXIS: (1*X_AXIS + -6.25):(1*X_AXIS + 6.25)
+REMARK Constraint on XW: (0*XW + 0):(0*XW + 49.99)
+REMARK Fixed Parameters: None
+REMARK F77 Optimization Modules
+
+REMARK Updated Variables: X_PPM X_HZ XW_HZ
+
+VARS   INDEX X_AXIS DX X_PPM X_HZ XW XW_HZ X1 X3 HEIGHT DHEIGHT VOL PCHI2 TYPE ASS CLUSTID MEMCNT
+FORMAT %5d %9.3f %6.3f %8.3f %9.3f %7.3f %8.3f %4d %4d %+e %+e %+e %.5f %d %s %4d %4d
+
+    1  1448.532 26.776   13.527  9473.282  32.043   15.091 1408 1484 +5.892916e+06 +2.978414e+05 +2.009972e+08 1.00000 1 None    1    1
+    2  2164.598 36.911   13.045  9136.051  38.676   18.214 2128 2206 -5.174341e+06 +2.978448e+05 -2.130235e+08 1.00000 1 None    2    1
+    3  2392.455 17.906   12.892  9028.741  28.028   13.200 2358 2429 +1.406949e+07 +2.979106e+05 +4.197673e+08 1.00000 1 None    3    1
+    4  2675.348 17.685   12.702  8895.513  28.714   13.523 2626 2712 +1.604814e+07 +2.979062e+05 +4.905087e+08 0.95609 1 None    4    1
